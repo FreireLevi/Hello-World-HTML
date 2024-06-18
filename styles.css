@@ -1,0 +1,29 @@
+body{
+    background-color:black;
+    border-style:solid;
+    border-color:#00FF66;
+    border-radius:3px;
+}
+
+h1 {
+    text-align:center;
+    padding:1%;
+    color:black;
+    background-color:#00FF66;
+    font-family:monospace;
+}
+
+p{
+    text-align:center;
+    padding:1%;
+    color:#00FF66;
+    font-family:monospace;
+}
+
+.center{
+    display: block;
+    margin-top:initial;
+    margin-left: auto;
+    margin-right: auto;
+    width:75%;
+}
