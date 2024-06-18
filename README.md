@@ -9,4 +9,4 @@ This is a fancy "Hello World" I made while training HTML/CSS few months ago. Wit
 Also learned more about:
 - Directories (Folders, filesystems, etc)
 - How browsers display web pages
-- How to use Git# Hello-World-HTML
+- How to use Git
