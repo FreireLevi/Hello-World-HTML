@@ -1,4 +1,4 @@
-*Hello World HTML/CSS*
+# Hello World HTML/CSS #
 
 This is a fancy "Hello World" I made while training HTML/CSS few months ago. With this activity I learned:
 - The basic about HTML tags
